@@ -1,0 +1,4 @@
+1. Major issue: Twitter Timeline is not dynamic
+   1.1. Create own timeline OR
+   1.2. Embed single tweets with paragraph
+2. Error in var_dump() in ret_net.php
